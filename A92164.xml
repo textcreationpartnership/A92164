@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ranters religion. Or, A faithfull and infallible narrative of their damnable and diabolical opinions, with their detestable lives &amp; actions. With a true discovery of some of their late prodigious pranks, and unparalleld deportments, with a paper of most blasphemous verses found in one of their pockets, against the majesty of almighty God, and the most sacred Scriptures, rendred verbatim. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92164</idno><idno type="EEBO-CITATION">99865528</idno>
+  <idno type="VID">117773</idno>
+  <idno type="EEBO-PROQUEST">2240917462</idno>
+  
+            <idno type="STC">Wing R253</idno>
+            <idno type="STC">Thomason E619_8</idno>
+            <idno type="STC">ESTC R206367</idno>
+            <idno type="PROQUEST">99865528</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865528e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E619[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ranters religion. Or, A faithfull and infallible narrative of their damnable and diabolical opinions, with their detestable lives &amp; actions. With a true discovery of some of their late prodigious pranks, and unparalleld deportments, with a paper of most blasphemous verses found in one of their pockets, against the majesty of almighty God, and the most sacred Scriptures, rendred verbatim. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Woodcut illustration on title page.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ranters --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117773:1"/>
+            <p>The Ranters Religion. OR, A faithfull and infallible Narrative of their damnable and diabolical opinions, with their detestable lives &amp; actions.</p>
+            <p>With a true discovery of some of their late prodigious pranks, and unparalleld deportments, with a paper of most blasphemous Verses found in one of their pockets, against the Majesty of Almighty God, and the most fa<g ref="char:EOLhyphen"/>cred Scriptures, rendred <hi>verbatim.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Authority.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <figure>
+               <figDesc>woodcut of naked ranters</figDesc>
+               <q>Behold these are Ranters.</q>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed, for <hi>R. H.</hi> 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117773:2"/>
+            <head>An Advertisement to the Reader.</head>
+            <p>HEE that labours, sayd the old Hermites, is tempted but by one Devill: hee that is idle is assaulted by all: if Iron had reason, it would choose rather to be used in labour, then to grow rusty in a corner: That idlenesse is the mother of all mischiefe was never so evidently proved, as by the monstrous production of a Sect, but of novell growth, yet now strangely pre<g ref="char:EOLhyphen"/>valent amongst us, called <hi>Ranters,</hi> a People so dronish, that the whole course of their lives is but one continued Scene of Sottishness, their jestures filthy, their words obsceane, and balsphemous, and all their deeds which they wretchedly glory in, impious, and horrid: I beseech thee, good Reader, to peruse this Pamphlet as thou woul<g ref="char:EOLhyphen"/>dest <hi>Aretines</hi> Pictures, with a will to know such filthinesse, that thou mayest be incited the more heartily to abominate it.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:117773:2"/>
+            <head>The Ranters Religion, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Stoicks (among many other excellent contemplations) in the discourse of joy came the nearest to divine truth, when they put a maine and reall difference be<g ref="char:EOLhyphen"/>tween <hi>laetari &amp; gaudere,</hi> mirth and joy, the former is a light and toyish passion, which stirreth the spleen, skipping up (in wanton maner) into the face, the latter is a concinuall exaltation of the soule in the enjoyment of some excellency; mirth is a suddain or short fit raised by some pleasant or ridiculous accident, joy is a setled and constant delight, by the presence of some pos<g ref="char:EOLhyphen"/>sessed good; mirth (such as that of our new Gnosticks at this present) is ever in the sensuall appetite; joy is onely from the soule and will, from which inference they drew that admirable Paradox <hi>(scoft at by the other Philosophers) that a wise man only rejoyceth truely, though a foole be alwayes more merry, for this St. Augustine found</hi> warrant in Scripture, <hi>non est gaudium impiis,</hi> the wicked can never truely rejoyce, and he addes the reason, <hi>quia effunduntur, &amp;c.</hi> because they are ever restlesse, ever wandring from themselves; I have beene something prolix in this exordium, as well to satisfie some, as to undeceive others; the first standing in admi<g ref="char:EOLhyphen"/>ration to see how harmoniously these Gnosticks, or Ranters deport themselvs one towards another (being in continuall exaltations &amp; jollities;) the second being willing to believe that so pleasing a Symphony cannot proceede from that
+<pb n="4" facs="tcp:117773:3"/>Master of misrule, <hi>Belzebub,</hi> but by an heavenly influence, <hi>&amp;c.</hi> but I have satisfied them, I hope, that the rejoycings of these Ranters is meerely sensuall and devillish, and with St. <hi>Augustines</hi> warrant, that they are of their Father the Devill, whose workes they doe.</p>
+            <p>These Rantets are but the Gnosticks of former Ages brought backwards amongst us, these are but the same with those of old, whose description <hi>Epiphanius</hi> gives us, who had only certaine Dictates and Positions, and peremptori<g ref="char:EOLhyphen"/>ly affirmed, that let them live as they listed, they were sure to be saved; so far these are stampt with the old <hi>Impressa,</hi> but our Gnosticks cannot content themselves in such bounds and limits, they affirme that God is so far from be<g ref="char:EOLhyphen"/>ing offended at the crying sins of drunkenes, swearing, blas<g ref="char:EOLhyphen"/>pheming, adultery, <hi>&amp;c.</hi> that he is well pleased therewith, and that [O strange and horrid impiety!] it is the only way of serving him aright: all true Christians know that it is not lawfull for them to flatter themselves with any thing of their owne judgement, nor to adhere to that which any man brings in of his owne head; we have the patterne of the Apostles to imitate, who tooke no thing to bring in after their owne pleasure, but faithfully assigned to the Na<g ref="char:EOLhyphen"/>tions that they had received of Christ; where on the con<g ref="char:EOLhyphen"/>trary these licentious Sciolists affirme, that each whimsey, each motion, whether to sweare, to whore, yea to commit incest or buggery, is of God, and proceeds from him, hee being the Authour, Orderer, and Origen of it; a Doctrine which the very Divels sure would tremble to heare.</p>
+            <p>The very Heathen by Phylosophy and the scale of the creatures have asccended so high, as to the knowledge of one supreame Deity, this the course of nature taught them, (for indeed the whole world is nothing else but a Com<g ref="char:EOLhyphen"/>mentary
+<pb n="5" facs="tcp:117773:3"/>or paraphrase of the Deity) and to that omnisci<g ref="char:EOLhyphen"/>ent ever living power, they ascribed all purity &amp; sanctity, proclaiming him to be the Patron of all vertue, and punisher of all vice; and therefore these Monsters come short of the very Heathen, while they make the Almighty not on<g ref="char:EOLhyphen"/>ly the Countenancer, which but to immagine is damna<g ref="char:EOLhyphen"/>ble blasphemy, but the efficient cause of sin, and dare im<g ref="char:EOLhyphen"/>piously to affirm, that that man who tipples deepest, swears the frequentest, commits Adultery, Incest, or Buggery, the oftenest, Blasphemes the Impudentest, and perpetrates the most notorious crimes with the highest hand, and rigidest resolution, is the dearest Darling to Heaven.</p>
+            <list>
+               <head>The Heads of their damnable Errors, and horrid Blasphemies.</head>
+               <item>They Believe (and these are the wisest sort of them) that a Resurrection is possible, and that there may be a Restitu<g ref="char:EOLhyphen"/>tion of our bodies, but then they say that the Starres and Plannets, by whose decay and continuance they measure the perpetuity and stability of all sublunary things to be the only causes of it, and so they run giddily into <hi>Plato</hi>'s cir<g ref="char:EOLhyphen"/>cumvolution of yeares.</item>
+               <item>2. They affirme that all Women ought to be in com<g ref="char:EOLhyphen"/>mon, and when they are assembled altogether (this a known truth) they first entertaine one another, the men those of their own sex, and the Women their fellow females: with horrid Oathes and execrations, then they fall to bowzing, and drinke deep healths (Oh cursed Caitiffes!) to their Brother God, and their Brother Devill; then being well heated with Liquor, each Brother takes his she Otter up<g ref="char:EOLhyphen"/>on his knee, and the word (spoken in derision of the sacred Writ) being given, <hi>viz. Increase and Multiply:</hi> they fall to their lascivious imbraces, with a joynt motion, &amp;c.</item>
+               <pb n="6" facs="tcp:117773:4"/>
+               <item>3. They affirme, that there be three keyes that God al<g ref="char:EOLhyphen"/>waies keepes in his owne hands; the Key of the wombe whereby he lets us into this world; the Key of Liberty, whereby he Authorizes us to fulfill our owne Lusts, and sensuall appetites, opening the doores of liberty and licen<g ref="char:EOLhyphen"/>tiousnesse, which were fast locked to the men of former ages, sure, to his prayse and glory. Their opinion about the Resurrection of the body is so strange, and withall so absurd, that I must by no meanes omit to recite it.</item>
+               <item>4. They tell you there is a certaine little bone in every mans back that shall never be subject to any putrefaction, and this bone, say they, at the last day shalbe molified and softned by a Dew from Heaven, and it shall swell, having the nature of leaven, and it shall diffuse its virtue to the collecting of all the dust that belongs to its owne body, and prepare it for a Resurrection.</item>
+               <item>5. They maintaine, that to have their women in com<g ref="char:EOLhyphen"/>mon is their Christian liberty, and very prettily, indeed la, that that Sister among them who can make the beast with two backs the most strenuously, <hi>viz.</hi> entertaine most men longest, and oftenest, hath a sufficient canonization for a Saint triumphant. This they frequently, and with much fervency affirme.</item>
+            </list>
+            <p>These Beasts of <hi>Ephesus</hi> doe not tremble over a pint pot, or in the parenthesis of a whiff of Tobacco, to vaunt blas<g ref="char:EOLhyphen"/>phemously their insatisfaction in matters of Religion, and with the execrable and ridiculous solecisme of <hi>God Dam me,</hi> dare at the same article of time send challenges to reason, to prove there is a God, and the Scriptures are but a meer Romance, a Chimera, &amp;c.</p>
+            <p>One of them (lately in my hearing) disputing with a Gentleman (who as all good Christians ought, was very
+<pb n="7" facs="tcp:117773:4"/>zealous in the defence of the most sacred Scriptures) about the blessed Virgin <hi>Mary,</hi> our Redeemers mother, according to the flesh, had this most impious quere.</p>
+            <p>If she descended of the seed of <hi>Adam,</hi> said he, then the in<g ref="char:EOLhyphen"/>fection of originall sin must needs devolve into her, isshe did not descēd from <hi>Adam,</hi> then is she not the seed of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> nor of the seed of <hi>David,</hi> nor by consequence of our Sa<g ref="char:EOLhyphen"/>viour, nor are the Genealogies of the Scriptures truely de<g ref="char:EOLhyphen"/>livered: O most horrible blasphemy!</p>
+            <p>These most impious, blasphemous, and divelish Verses were found in the pocket of one of the prime Ranters, who is at this time in Bridewell, (condoling his condition over sacred hempe,) which I will here set downe to the end the whole Kingdome may be made sensible what Vipers are sheltred in their bosome</p>
+            <lg>
+               <l>
+                  <hi>They talke of God (believe it fellow creature)</hi>
+               </l>
+               <l>
+                  <hi>Theres no such Bugbeare, all was made by nature,</hi>
+               </l>
+               <l>
+                  <hi>And then, the Rabbies that do rule the rost</hi>
+               </l>
+               <l>
+                  <hi>Do babble of a Son and Holy Ghost.</hi>
+               </l>
+               <l>
+                  <hi>God have a Son? Why sure that Son must needs</hi>
+               </l>
+               <l>
+                  <hi>Beget another (nature alwayes breeds)</hi>
+               </l>
+               <l>
+                  <hi>His Son a Son, so a whole Generation</hi>
+               </l>
+               <l>
+                  <hi>Of Gods and Goddesses by procreation:</hi>
+               </l>
+               <l>
+                  <hi>And then (forsooth) a Holy Ghost proceeds</hi>
+               </l>
+               <l>
+                  <hi>From that great God, who comforts us, and feeds</hi>
+               </l>
+               <l>
+                  <hi>Our soules with heavenly manna: O such lies</hi>
+               </l>
+               <l>
+                  <hi>Cannot be sound in any Histories,</hi>
+               </l>
+               <l>
+                  <hi>Save in that booke of fallacies, they name</hi>
+               </l>
+               <l>
+                  <hi>The Bible, which from some fooles fancy came</hi>
+               </l>
+               <l>
+                  <hi>We know all came of nothing, and shall passe</hi>
+               </l>
+               <l>
+                  <hi>Into the same condition once it was</hi>
+               </l>
+               <pb n="8" facs="tcp:117773:5"/>
+               <l>
+                  <hi>By natures power, and that they grossely lie,</hi>
+               </l>
+               <l>
+                  <hi>That say theres hope of Immortality.</hi>
+               </l>
+               <l>
+                  <hi>Let them but tell us what a soule is, then</hi>
+               </l>
+               <l>
+                  <hi>We will adhere to these mad brain-sick men.</hi>
+               </l>
+            </lg>
+            <p>This damnable Atheisme some of them are so bold as to aver, many of them being arived at that height of incorri<g ref="char:EOLhyphen"/>gible madnesse and abominable impudence, that they fear not (in all companies where they come) to contest that all things were made by nature, that mans soule dies with his body, that the Scriptures are meere lies and tales, <hi>&amp;c.</hi>
+            </p>
+            <p>One of these Roysters sitting over his cups (with the rest of his companions) evacuating <hi>wind backward, used this blasphe<g ref="char:EOLhyphen"/>mous expression, let every thing that hath breath, praise the Lord.</hi>
+            </p>
+            <p>Another of them taking a piece of boyled beefe betwixt his hands, and tearing it in pieces, gave part thereof to one of his companions, using these words (in derision of the bles<g ref="char:EOLhyphen"/>sed Sacrament) the body &amp; blood of our Lord Jesus Christ.</p>
+            <p>A shee Ranter said openly in the hearing of many, (a friend of mine accidentally one of them) that she should thinke her selfe a happy woman, and should esteeme her selfe a superlative servant of Gods, if any man would ac<g ref="char:EOLhyphen"/>company with her carnally in the open Market place.</p>
+            <p>O wretched people! O monstrous Times! I pray God put it into the hearts of our vigilant Senators (as they have already began to suppresse this most blasphemous, impious Sect) to go thorow with it, and to make these Monsters of mankind, examples to the whole world, the frame of these Schismaticks (or rather caco-Demons) is already out of joynt, one pull more, and their machine come in pieces about their eares; such Devils clad in flesh are not fit to have subsistance amongst those who boast themselves Christians, but merrit (as unsavoury salt) to bee thrown out, and to betrodden under foot of men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
